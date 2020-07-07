@@ -2,6 +2,9 @@ How to run
 
 Requirements
 
+python 3x
+Nodejs
+
 Backend python
 
 Install pip
